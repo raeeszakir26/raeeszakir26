@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @raeeszakir26
+- 👀 I’m interested in artificial intelligence and open-source projects.
+- 🌱 I’m currently learning Python and React.
+- 💞️ I’m looking to collaborate on AI-related projects and data visualization.
+- 📫 How to reach me: [raeeszakir26@gmail.co](mailto:your-email@example.com) or connect with me on [LinkedIn](your-linkedin-profile).
+- 😄 Pronouns: I believe it's important to respect everyone's identity by using the correct pronouns.
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
